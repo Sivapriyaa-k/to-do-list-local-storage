@@ -27,7 +27,7 @@ input {
   color: #fff;
 }
 #add-task-btn {
-  background-color: blueviolet;
+  background: linear-gradient(267deg, #da7c25 0.36%, #b923e1 102.06%);
   padding: 10px;
   border: 0px;
   color: #fff;
@@ -64,4 +64,3 @@ li {
   margin-bottom: 10px;
   background-color: rgba(0, 0, 0, 0.3);
 }
-
